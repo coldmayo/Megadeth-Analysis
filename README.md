@@ -3,6 +3,7 @@ My friend Paige once said that all Megadeth songs sound the same. This project w
 
 
 Potential Analysis Ideas:
+
 Null Hypothesis Test:
   - evaluate difference in variation of pitch (standard deviations or something)
   - tempo differences (not sure how to detect that tho)
